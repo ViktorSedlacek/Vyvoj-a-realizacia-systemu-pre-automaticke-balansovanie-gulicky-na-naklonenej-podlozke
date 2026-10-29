@@ -1,2 +1,2 @@
-# bakalárskapráca
+# bakalárska práca
 bakalárska práca
